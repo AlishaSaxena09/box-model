@@ -52,7 +52,6 @@ table {
 }
 .box-1{
     display: inline-block;
-    background-color: #F35048;
     color: white;
     width: 500px;
     height: 280px;
@@ -61,75 +60,39 @@ table {
 }
 .box-2{
     display: inline-block;
+    color: white;
+    width: 280px;
+    height: 280px;
+    margin: 10px;
+    padding: 20px;
+}
+.red{
+    background-color: #F35048;
+}
+.blue{
     background-color: #368871;
-    color: white;
-    width: 280px;
-    height: 280px;
-    margin: 10px;
-    padding: 20px;
 }
-.box-3{
-    display: inline-block;
+.purple{
     background-color: #BD72FB;
-    color: white;
-    width: 280px;
-    height: 280px;
-    margin: 10px;
-    padding: 20px;
+   
 }
-.box-4{
-    display: inline-block;
+.aqua{
     background-color: #25C1FB;
-    color: white;
-    width: 280px;
-    height: 280px;
-    margin: 10px;
-    padding: 20px;
 }
-.box-5{
-    display: inline-block;
+.green{
     background-color: #5BCB80;
-    color: white;
-    width: 500px;
-    height: 280px;
-    margin: 10px;
-    padding: 20px;
 }
-.box-6{
-    display: inline-block;
+.green1{
     background-color: #71EA61;
-    color: white;
-    width: 280px;
-    height: 280px;
-    margin: 10px;
-    padding: 20px;
 }
-.box-7{
-    display: inline-block;
+.yellow{
     background-color: #E4ED3A;
-    color: white;
-    width: 280px;
-    height: 280px;
-    margin: 10px;
-    padding: 20px;
 }
-.box-8{
-    display: inline-block;
+.orange{
     background-color: #F67328;
-    color: white;
-    width: 280px;
-    height: 280px;
-    margin: 10px;
-    padding: 20px;
 }
-.box-9{
-    display: inline-block;
+.orange1{
     background-color: #E5412E;
-    color: white;
-    width: 500px;
-    height: 280px;
-    margin: 10px;
-    padding: 20px;
 }
 div{
     font-size: 25px;
